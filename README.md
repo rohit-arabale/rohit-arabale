@@ -8,19 +8,21 @@ I am Rohit Arabale
 --> Interested in AI/ML , scalable web applications , cloud
 🎯 Goal: To become a skilled **full-stack developer + problem solver**
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:**
-C++ | Python | JavaScript
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-blue)
+![Python](https://img.shields.io/badge/Python-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-black)
 
-**Frontend:**
-HTML | CSS | React
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![React](https://img.shields.io/badge/React-61DAFB)
 
-**Backend:**
-Node.js (learning)
-
-**Tools & Platforms:**
-Git | GitHub | VS Code
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-red)
+![GitHub](https://img.shields.io/badge/GitHub-black)
 
 ## 📫 Connect with Me
 
