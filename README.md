@@ -1,16 +1,32 @@
-## Hi there 👋
+I am Rohit Arabale
+🎓 I'm a BTech Computer Science student from KITCOEK passionate about building real-world tech solutions.
+💻 I enjoy working on Web Development and Artificial Intelligence, combining creativity with logic to solve problems and learning upcoming skills needed in the future market
 
-<!--
-**rohit-arabale/rohit-arabale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+🔭 Currently working on improving my Data Structures & Algorithms
+🌱 Learning React, Node.js, and backend development
+--> Interested in AI/ML , scalable web applications , cloud
+🎯 Goal: To become a skilled **full-stack developer + problem solver**
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:**
+C++ | Python | JavaScript
+
+**Frontend:**
+HTML | CSS | React
+
+**Backend:**
+Node.js (learning)
+
+**Tools & Platforms:**
+Git | GitHub | VS Code
+
+## 📫 Connect with Me
+
+* 📧 Email: iamrohitarabale@gmail.com
+* 💼 LinkedIn: linkedin.com/in/rohit-arabale
+
+---> Fun Fact
+
+I enjoy turning ideas into working projects and constantly learning new technologies 🚀
