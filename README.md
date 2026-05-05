@@ -13,6 +13,12 @@ I am Rohit Arabale
 
 <img width="250" height="250" alt="68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578596d5a7364574a71627a493559334178597a5a30627a4d794f4738324f44563661477474596d35304d6d5230636e6c694d7a6c345a435a6c63" src="https://github.com/user-attachments/assets/3ec52f8e-533c-4c3c-88a9-ba7908019599" />
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rohit-arabale&theme=radical&hide_border=true" />
+</p>
+
 
 
 ## 🛠️ Tech Stack
@@ -46,10 +52,14 @@ I am Rohit Arabale
 ![React](https://img.shields.io/badge/Advanced%20React-61DAFB)
 ![Backend](https://img.shields.io/badge/Backend%20Development-green)
 ## 📫 Connect with Me
-
+<p align="left">
+  <a href="https://linkedin.com/in/ linkedin.com/in/rohit-arabale">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>
 * 📧 Email: iamrohitarabale@gmail.com
-* 💼 LinkedIn: linkedin.com/in/rohit-arabale
+<img width="2000" height="400" alt="banner" src="https://github.com/user-attachments/assets/e286ebfc-079f-4459-bd24-a2edd774c209" />
 
----> Fun Fact
+Fun Fact
 
 I enjoy turning ideas into working projects and constantly learning new technologies 🚀
