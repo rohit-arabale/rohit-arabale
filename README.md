@@ -8,6 +8,12 @@ I am Rohit Arabale
 --> Interested in AI/ML , scalable web applications , cloud
 🎯 Goal: To become a skilled **full-stack developer + problem solver**
 
+
+
+https://github.com/user-attachments/assets/914c0122-ba77-4867-8e52-e2999b197dce
+
+
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
