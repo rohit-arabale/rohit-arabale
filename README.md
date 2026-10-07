@@ -95,7 +95,7 @@ I am Rohit Arabale
 </a>
 
 <a href="https://leetcode.com/u/rohit_arabale_09">
-  <img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white" height="40"/>
 </a>
 
 <a href="https://github.com/rohit-arabale">
