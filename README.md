@@ -57,6 +57,11 @@ I am Rohit Arabale
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
+<p align="left">
+  <a href="https://leetcode.com/u/rohitarabale_09">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+  </a>
+</p>
 * 📧 Email: iamrohitarabale@gmail.com
 <img width="2000" height="400" alt="banner" src="https://github.com/user-attachments/assets/e286ebfc-079f-4459-bd24-a2edd774c209" />
 
