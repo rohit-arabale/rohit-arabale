@@ -34,27 +34,32 @@ I am Rohit Arabale
 ---
 
 ## 🐍 Contribution Activity
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohit-arabale/rohit-arabale/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/rohit-arabale/rohit-arabale/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/rohit-arabale/rohit-arabale/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/rohit-arabale/rohit-arabale/output/github-snake.svg"
+    />
+  </picture>
 </p>
 
----
-
-## 📈 Developer Activity
-
-<p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-arabale&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</p>
-
----
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohit-arabale&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="95%"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=rohit-arabale&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
+    width="95%"
+    alt="GitHub Trophies"
+  />
 </p>
 
 
@@ -157,47 +162,19 @@ I am Rohit Arabale
 <p align="center">
 
   <a href="https://linkedin.com/in/rohit-arabale">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://leetcode.com/u/rohitarabale_09">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="45" alt="LeetCode"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/rohit-arabale">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://leetcode.com/u/rohitarabale_09">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 
 </p>
 
 <p align="center">
-
-<b>Let's Build Something Amazing Together! 🚀</b>
-
-</p>
-
-<p align="center">
-  Open to opportunities • Collaboration • Project Ideas • Tech Discussions
-</p>
-
-<br>
-
-<p align="center">
-  <img 
-    src="./assets/connect-banner.png" 
-    alt="Rohit Arabale - Connect With Me" 
-    width="100%"
-  />
-</p>
-
-<br>
-
-<p align="center">
-
-### 🚀 Turning Ideas Into Real-World Solutions
-
-**Build • Learn • Solve • Improve**
-
+  <img src="./assets/connect-banner.png" alt="Rohit Arabale - Connect With Me" width="100%"/>
 </p>
