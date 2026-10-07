@@ -90,17 +90,17 @@ I am Rohit Arabale
 
 <p align="left">
 
-<a href="https://linkedin.com/in/rohit-arabale">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-</a>
+  <a href="https://linkedin.com/in/rohit-arabale">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
 
-<a href="https://leetcode.com/u/rohit_arabale_09">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white" height="40"/>
-</a>
+  <a href="https://leetcode.com/u/rohitarabale_09">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="LeetCode"/>
+  </a>
 
-<a href="https://github.com/rohit-arabale">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-</a>
+  <a href="https://github.com/rohit-arabale">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  </a>
 
 </p>
 
