@@ -1,12 +1,19 @@
 I am Rohit Arabale
+### BTech Computer Science Student | Full-Stack Developer | AI/ML Enthusiast | Problem Solver
 🎓 I'm a BTech Computer Science student from KITCOEK passionate about building real-world tech solutions.
 💻 I enjoy working on Web Development and Artificial Intelligence, combining creativity with logic to solve problems and learning upcoming skills needed in the future market
 
-🚀 About Me
-🔭 Currently working on improving my Data Structures & Algorithms
-🌱 Learning React, Node.js, and backend development
---> Interested in AI/ML , scalable web applications , cloud
-🎯 Goal: To become a skilled **full-stack developer + problem solver**
+## 🚀 Executive Summary
+
+- 🎓 BTech Computer Science student at **KITCOEK**
+- 💻 Interested in **Full-Stack Web Development**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🧠 Currently strengthening **Data Structures & Algorithms**
+- 🌱 Learning **React, Node.js & Backend Development**
+- ☁️ Interested in **Cloud & scalable applications**
+- 🧩 Practicing problem solving through **LeetCode**
+- 🚀 Building real-world projects and experimenting with new technologies
+- 🎯 Goal: Become a strong **Full-Stack Developer + Problem Solver**
 
 
 
@@ -17,6 +24,28 @@ I am Rohit Arabale
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rohit-arabale&theme=radical&hide_border=true" />
+</p>
+
+## 🧠 Competitive Programming
+
+### LeetCode
+
+<a href="https://leetcode.com/u/rohit_arabale_09">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+</a>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit-arabale&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-arabale&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rohit-arabale&theme=tokyonight&hide_border=true" />
 </p>
 
 
@@ -51,18 +80,44 @@ I am Rohit Arabale
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue)
 ![React](https://img.shields.io/badge/Advanced%20React-61DAFB)
 ![Backend](https://img.shields.io/badge/Backend%20Development-green)
-## 📫 Connect with Me
+
+## 📚 Currently Learning
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0A66C2?style=for-the-badge)
+![Advanced React](https://img.shields.io/badge/Advanced%20React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend%20Development-333333?style=for-the-badge)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+## ⭐ Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| 🧠 [Roadmap.ai](https://github.com/rohit-arabale/roadmap-ai) | AI-powered personalized learning path and recommendation platform | React, TypeScript, Bun, Express, Prisma, PostgreSQL, Gemini |
+| 🚀 [BizFlow](https://github.com/rohit-arabale/bizflow) | Business automation platform for inventory, appointments, orders and WhatsApp | React, Node.js, Express, MongoDB, JWT, Twilio |
+| 📱 [Flux Mirror](https://github.com/rohit-arabale/Flux-Mirror) | Android screen mirroring, casting and browser streaming application | Kotlin, Jetpack Compose, Ktor, WebSockets |
+| 🎓 [College Ecosystem](https://github.com/rohit-arabale/college-ecosystem) | Full-stack student platform with chat, marketplace, notes and events | React, Node.js, Express, MongoDB, Socket.io |
+| 🤖 [AI Study Assistant](https://github.com/rohit-arabale/ai-study-assistant) | AI-powered platform for student learning, notes and intelligent assistance | React, Node.js, Express, MongoDB, OpenRouter |
+
+## 📫 Connect With Me
+
 <p align="left">
-  <a href="https://linkedin.com/in/ linkedin.com/in/rohit-arabale">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
+
+<a href="https://linkedin.com/in/rohit-arabale">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+</a>
+
+<a href="https://leetcode.com/u/rohit_arabale_09">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" height="40" alt="LeetCode"/>
+</a>
+
+<a href="https://github.com/rohit-arabale">
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+</a>
+
 </p>
-<p align="left">
-  <a href="https://leetcode.com/u/rohitarabale_09">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
-  </a>
-</p>
-* 📧 Email: iamrohitarabale@gmail.com
+
 <img width="2000" height="400" alt="banner" src="https://github.com/user-attachments/assets/e286ebfc-079f-4459-bd24-a2edd774c209" />
 
 Fun Fact
